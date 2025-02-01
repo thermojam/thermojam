@@ -1,9 +1,9 @@
-## 🙋‍♂️Hello! I am a front-end developer with experience in creating clear and effective applications.
+## 🙋‍♂️Hello! I am a front-end developer with experience <br>in creating clear and effective applications.
 <br>
 
 #### 🟣 I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry <br>
 
-#### 🟢 My experience includes customizing responsive interfaces, optimizing performance, and creating component parts that improve user experience <br>
+#### 🟢 My experience includes customizing <br> responsive interfaces, optimizing performance, and creating component parts that improve user experience <br>
 
 #### 🟡 My goal is not just to write code, but to create products that inspire and solve real problems
 
