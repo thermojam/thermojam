@@ -6,7 +6,7 @@
 
 <div align='center'>
   
-#### <p style="color:purple">🟣 I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry</p> <br>
+#### <font color="purple">🟣 I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry</font> <br>
 
 #### 🟣 My experience includes customizing responsive interfaces, optimizing performance, <br> and creating component parts that improve user experience <br>
 
