@@ -1,14 +1,11 @@
-# 👋 Hello! My name is Nikita.
-
-##### I am a front-end developer with 2 years of experience in creating clear and highly efficient web applications.
+# I am a front-end developer with 2 years of experience in creating clear and highly efficient web applications.
 
 
+ 🔘 I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry <br>
 
- ⚪ I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry <br>
+ 🔘 My experience includes customizing responsive interfaces, optimizing performance, and creating component parts that improve user experience <br>
 
- ⚪ My experience includes customizing responsive interfaces, optimizing performance, and creating component parts that improve user experience <br>
-
- ⚪ My goal is not just to write code, but to create products that inspire and solve real problems
+ 🔘 My goal is not just to write code, but to create products that inspire and solve real problems
 
 
 
