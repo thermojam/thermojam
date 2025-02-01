@@ -1,6 +1,6 @@
 
   
-## 🙋‍♂️Hello! I am a front-end developer with experience <br>in creating clear and effective applications.
+## 🙋‍♂️Hello! I am a front-end developer with experience in creating clear and effective applications.
 <br>
 
 <div align='center'>
