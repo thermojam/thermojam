@@ -2,15 +2,15 @@
 
 ##### I am a front-end developer with 2 years of experience in creating clear and highly efficient web applications.
 
-<ul>  
 
-  <li>I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry.</li> <br>
 
-  <li>My experience includes customizing responsive interfaces, optimizing performance, and creating component parts that improve user experience.</li> <br>
+ ⚪ I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry <br>
 
-  <li>My goal is not just to write code, but to create products that inspire and solve real problems.</li>
+ ⚪ My experience includes customizing responsive interfaces, optimizing performance, and creating component parts that improve user experience <br>
 
-</ul>
+ ⚪ My goal is not just to write code, but to create products that inspire and solve real problems
+
+
 
 ##### I look forward to contributing to your team and helping you realize ambitious projects!
 
