@@ -1,3 +1,4 @@
+<div align='center'>
 ## 🙋‍♂️Hello! I am a front-end developer with experience <br>in creating clear and effective applications.
 <br>
 
@@ -19,3 +20,4 @@
 
 ## ⚙️ Tech Stack:
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,git,nodejs,webpack,vite)](https://skillicons.dev)
+</div>
