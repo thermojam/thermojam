@@ -1,6 +1,6 @@
 <div align='center'>
   
-## Hello 🙋‍♂️ I am a front-end developer with experience in creating clear and effective applications.
+## Hello 🙋‍♂️ I am engaged in the creation of clear and effective App.
 
 </div>
 
@@ -14,7 +14,7 @@
 
 #### 🟣 My goal is not just to write code, but to create products that inspire and solve real problems
 
-#### 🟣 I look forward to contributing to your team and helping you realize ambitious projects!
+#### 🟣 I look forward to contributing to your team and helping you realize ambitious projects
 
 <br>
 
