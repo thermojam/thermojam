@@ -6,7 +6,7 @@
 
 <div align='center'>
   
-#### 🟣 I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry <br>
+#### 🟣 I am <span style="color:blue;">proficient in modern tools and frameworks</span>, and constantly monitor the latest trends in the industry <br>
 
 #### 🟣 My experience includes customizing responsive interfaces, optimizing performance, <br> and creating component parts that improve user experience <br>
 
@@ -25,5 +25,4 @@
 
 ## ⚙️
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,git,nodejs,webpack,vite)](https://skillicons.dev)
-
 
