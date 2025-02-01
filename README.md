@@ -1,18 +1,18 @@
 <div align='center'>
   
-## Hello 🙋‍♂️ I am engaged in the creation of clear and effective App.
+  ## Hello 🙋‍♂️ I am engaged in the creation of clear and effective App.
 
 </div>
 
 <div align='center'>
   
-#### <font color="purple">🟣 I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry</font> <br>
+  #### 🟣 I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry <br>
 
-#### 🟣 My experience includes customizing responsive interfaces, optimizing performance, <br> and creating component parts that improve user experience <br>
+  #### 🟣 My experience includes customizing responsive interfaces, optimizing performance, <br> and creating component parts that improve user experience <br>
 
-#### 🟣 My goal is not just to write code, but to create products that inspire and solve real problems
+  #### 🟣 My goal is not just to write code, but to create products that inspire and solve real problems
 
-#### 🟣 I look forward to contributing to your team and helping you realize ambitious projects
+  #### 🟣 I look forward to contributing to your team and helping you realize ambitious projects
 
 <br>
 
