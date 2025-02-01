@@ -4,8 +4,6 @@
 
 </div>
 
-<br>
-
 <div align='center'>
   
 #### 🟣 I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry <br>
