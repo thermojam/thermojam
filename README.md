@@ -3,6 +3,7 @@
 ## Hello 🙋‍♂️ I am a front-end developer with experience in creating clear and effective applications.
 
 </div>
+
 <br>
 
 <div align='center'>
@@ -21,10 +22,10 @@
 
 </div>
 
-## 📨 Mail:
+## 📨
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmensky@gmail.com)
 
-## ⚙️ Tech Stack:
+## ⚙️
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,git,nodejs,webpack,vite)](https://skillicons.dev)
 
 
