@@ -1,27 +1,21 @@
 # 👋 Hello! My name is Nikita.
-## I am a front-end developer with 2 years of experience in creating clear and highly efficient web applications.
+##### I am a front-end developer with 2 years of experience in creating clear and highly efficient web applications.
 
-<br><br>
+<br>
 
 + First item I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry.
 
-<br><br>
+<br>
 
 + Second item My goal is not just to write code, but to create products that inspire and solve real problems.
 
-<br><br>
+<br>
 
-+ Third item I look forward to contributing to your team and helping you realize ambitious projects!My goal is not just to write code, but to create products that inspire and solve real problems
-ls and frameworks, and constantly monitor the latest trends in the industry.
++ Third item My goal is not just to write code, but to create products that inspire and solve real problems.
 
-<br><br>
+<br>
 
-+ Fourth item My goal is not just to write code, but to create products that inspire and solve real problems.
-
-<br><br>
-
-## I look forward to contributing to your team and helping you realize ambitious projects!My goal is not just to write code, but to create products that inspire and solve real problems
-
+##### I look forward to contributing to your team and helping you realize ambitious projects!
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmensky@gmail.com)
