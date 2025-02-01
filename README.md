@@ -9,6 +9,8 @@
 
 #### 🟠 I look forward to contributing to your team and helping you realize ambitious projects!
 
+![](https://github-contributor-stats.vercel.app/api?username=thermojam&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
 <br>
 
 ## 📨 Mail:
@@ -16,4 +18,3 @@
 
 ## ⚙️ Tech Stack:
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,git,nodejs,webpack,vite)](https://skillicons.dev)
-
