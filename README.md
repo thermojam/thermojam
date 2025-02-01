@@ -9,9 +9,10 @@
 
 #### 🟠 I look forward to contributing to your team and helping you realize ambitious projects!
 
+<br>
+
 ![](https://github-contributor-stats.vercel.app/api?username=thermojam&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
-<br>
 
 ## 📨 Mail:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmensky@gmail.com)
