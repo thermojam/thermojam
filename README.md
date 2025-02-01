@@ -3,15 +3,15 @@
 
 <br>
 
-+ First item I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry.
+<ul>  
 
-<br>
+<li>I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry.</li>
 
-+ Second item My goal is not just to write code, but to create products that inspire and solve real problems.
+<li>My experience includes customizing responsive interfaces, optimizing performance, and creating component parts that improve user experience.</li>
 
-<br>
+<li>My goal is not just to write code, but to create products that inspire and solve real problems.</li>
 
-+ Third item My goal is not just to write code, but to create products that inspire and solve real problems.
+</ul>
 
 <br>
 
