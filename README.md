@@ -26,3 +26,5 @@
 ## ⚙️
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,git,nodejs,webpack,vite)](https://skillicons.dev)
 
+![image]([https://example.com/image.jpg](https://bairesdev.mo.cloudinary.net/blog/2022/09/growth-arrow-up-and-progress-success-business-skill-increase-graph-picture-id1325680818-1.jpg?tx=w_1920,q_auto))
+
