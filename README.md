@@ -6,13 +6,13 @@
 
 <div align='center'>
   
-  #### 🟣 I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry <br>
+  ##### 🟣 I am proficient in modern tools and frameworks, and constantly monitor the latest trends in the industry <br>
 
-  #### 🟣 My experience includes customizing responsive interfaces, optimizing performance, <br> and creating component parts that improve user experience <br>
+  ##### 🟣 My experience includes customizing responsive interfaces, optimizing performance, <br> and creating component parts that improve user experience <br>
 
-  #### 🟣 My goal is not just to write code, but to create products that inspire and solve real problems
+  ##### 🟣 My goal is not just to write code, but to create products that inspire and solve real problems
 
-  #### 🟣 I look forward to contributing to your team and helping you realize ambitious projects
+  ##### 🟣 I look forward to contributing to your team and helping you realize ambitious projects
 
 <br>
 
@@ -25,6 +25,3 @@
 
 ## ⚙️
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,git,nodejs,webpack,vite)](https://skillicons.dev)
-
-![image]([https://example.com/image.jpg](https://bairesdev.mo.cloudinary.net/blog/2022/09/growth-arrow-up-and-progress-success-business-skill-increase-graph-picture-id1325680818-1.jpg?tx=w_1920,q_auto))
-
